@@ -1,0 +1,141 @@
+Expense_ID,Submitted_By,Department,Expense_Date,Vendor_Name,Expense_Head,Project_Code,Cost_INR,Tax_GST,Total_Payable,Approval_Status,Remarks
+EXP5001,Nisha Tiwari,Marketing,2024-09-13,Taj Hotel,Client Lunch,PRJ-BETA,23937.34,4308.72,28246.06,Approved,High-value — CFO noted
+EXP5002,Rahul Joshi,HR,2024-12-16,OYO Business,Flight Booking,PRJ-BETA,2995.25,539.14,3534.39,Approved,
+EXP5003,Deepak Rao,Engineering,2024-11-04,Eureka Forbes,Server Repair,PRJ-ALPHA,8990.35,1618.26,10608.61,Rejected,Missing invoice
+EXP5004,Rahul Joshi,Engineering,2024-07-23,LinkedIn Learning,Online Course,PRJ-GAMMA,3237.17,582.69,3819.86,Rejected,Exceeds budget limit
+EXP5005,Priya Mehta,Marketing,2025-01-12,Ola Corporate,Hotel Stay,PRJ-BETA,2242.35,403.62,2645.97,Rejected,Missing invoice
+EXP5006,Ananya Gupta,Legal,2024-12-11,Siemens Service,Pest Control,CLIENT-RNL,4846.62,872.39,5719.01,Approved,
+EXP5007,Pooja Iyer,HR,2024-07-02,IndiGo Airlines,Cab Reimbursement,INTERNAL,7768.09,1398.26,9166.35,Pending,Awaiting manager approval
+EXP5008,Siddharth Bose,Sales,2024-05-08,NASSCOM,Conference Registration,INTERNAL,18732.07,3371.77,22103.84,Approved,
+EXP5009,Ananya Gupta,Engineering,2024-11-02,Meltwater,Ad Campaign,INTERNAL,35374.18,6367.35,41741.53,Approved,High-value — CFO noted
+EXP5010,Nisha Tiwari,Product,2025-01-30,Coursera for Business,Conference Registration,PRJ-BETA,10007.34,1801.32,11808.66,Approved,
+EXP5011,Ananya Gupta,Sales,2025-03-07,Treebo Hotels,Cab Reimbursement,CLIENT-RNL,18142.39,3265.63,21408.02,Approved,
+EXP5012,Arjun Nair,Operations,2025-03-09,Ola Corporate,Train Ticket,PRJ-BETA,2226.7,400.81,2627.51,Pending,Awaiting manager approval
+EXP5013,Rahul Joshi,Marketing,2024-08-26,Canva Pro,Print Materials,CLIENT-RNL,9985.58,1797.4,11782.98,Approved,
+EXP5014,Amit Desai,Finance,2024-10-23,Faber-Castell,Whiteboard Supplies,CLIENT-AXB,5525.24,994.54,6519.78,Approved,
+EXP5015,Arjun Nair,HR,2024-10-12,Amazon Business,Stationery,PRJ-DELTA,294.09,52.94,347.03,Approved,
+EXP5016,Arjun Nair,Marketing,2025-01-27,AWS,License Renewal,CLIENT-AXB,11392.98,2050.74,13443.72,Rejected,Duplicate entry
+EXP5017,Karan Malhotra,Marketing,2024-09-11,Canva Pro,Ad Campaign,CLIENT-AXB,21150.98,3807.18,24958.16,Pending,Awaiting manager approval
+EXP5018,Sneha Kulkarni,Product,2024-05-24,Meta Ads,Social Media Tools,PRJ-BETA,23150.09,4167.02,27317.11,Approved,High-value — CFO noted
+EXP5019,Ravi Sharma,Operations,2024-05-27,Coursera for Business,Workshop Fee,PRJ-GAMMA,2926.92,526.85,3453.77,Rejected,Exceeds budget limit
+EXP5020,Rahul Joshi,Engineering,2025-02-09,IndiGo Airlines,Hotel Stay,PRJ-GAMMA,23922.33,4306.02,28228.35,Approved,High-value — CFO noted
+EXP5021,Nisha Tiwari,Operations,2025-02-03,Taj Hotel,Client Lunch,CLIENT-RNL,19995.21,3599.14,23594.35,Pending,Awaiting manager approval
+EXP5022,Meera Pillai,Sales,2024-09-07,OfficeEdge,Stationery,PRJ-ZETA,6665.07,1199.71,7864.78,Pending,Awaiting manager approval
+EXP5023,Meera Pillai,Engineering,2024-06-22,Amazon Business,Office Furniture,PRJ-ALPHA,2525.1,454.52,2979.62,Rejected,Duplicate entry
+EXP5024,Kavya Reddy,Finance,2024-05-17,NASSCOM,Certification Exam,PRJ-DELTA,11289.32,2032.08,13321.4,Rejected,Duplicate entry
+EXP5025,Nisha Tiwari,HR,2024-09-16,NASSCOM,Online Course,CLIENT-AXB,4797.64,863.58,5661.22,Approved,
+EXP5026,Siddharth Bose,Operations,2024-12-09,Meta Ads,Ad Campaign,PRJ-ZETA,14440.37,2599.27,17039.64,Pending,Awaiting manager approval
+EXP5027,Priya Mehta,Operations,2025-03-21,Kalyan Jewellers,Team Dinner,PRJ-DELTA,10233.56,1842.04,12075.6,Approved,
+EXP5028,Karan Malhotra,Operations,2024-07-10,Faber-Castell,Whiteboard Supplies,PRJ-ALPHA,7291.75,1312.51,8604.26,Pending,Awaiting manager approval
+EXP5029,Siddharth Bose,Sales,2024-09-24,Siemens Service,Server Repair,PRJ-DELTA,13390.66,2410.32,15800.98,Pending,Awaiting manager approval
+EXP5030,Rahul Joshi,Operations,2024-11-09,OYO Business,Train Ticket,PRJ-BETA,4914.09,884.54,5798.63,Approved,
+EXP5031,Ananya Gupta,Engineering,2024-06-05,Amazon Business,Whiteboard Supplies,CLIENT-RNL,1416.12,254.9,1671.02,Approved,
+EXP5032,Deepak Rao,Marketing,2025-01-06,Treebo Hotels,Flight Booking,PRJ-BETA,18937.81,3408.81,22346.62,Rejected,Missing invoice
+EXP5033,Amit Desai,HR,2024-11-09,Urban Company,AC Servicing,PRJ-DELTA,7766.85,1398.03,9164.88,Approved,
+EXP5034,Arjun Nair,Operations,2025-01-26,Notion,API Credits,PRJ-ALPHA,26982.27,4856.81,31839.08,Approved,High-value — CFO noted
+EXP5035,Vikram Singh,Legal,2025-03-06,Eureka Forbes,AC Servicing,PRJ-ALPHA,11759.34,2116.68,13876.02,Pending,Awaiting manager approval
+EXP5036,Arjun Nair,Engineering,2025-02-06,Eureka Forbes,AC Servicing,CLIENT-RNL,11015.3,1982.75,12998.05,Rejected,Duplicate entry
+EXP5037,Karan Malhotra,Operations,2024-05-02,Meta Ads,Social Media Tools,PRJ-ALPHA,11182.69,2012.88,13195.57,Approved,
+EXP5038,Ravi Sharma,Sales,2024-04-22,TechGig,Conference Registration,PRJ-BETA,7185.98,1293.48,8479.46,Pending,Awaiting manager approval
+EXP5039,Vikram Singh,HR,2024-12-15,Canva Pro,Event Setup,CLIENT-RNL,47192.05,8494.57,55686.62,Rejected,Duplicate entry
+EXP5040,Arjun Nair,Finance,2024-12-24,Udemy for Teams,Online Course,CLIENT-AXB,8454.32,1521.78,9976.1,Approved,
+EXP5041,Priya Mehta,Sales,2024-09-09,Canva Pro,Print Materials,PRJ-DELTA,39628.93,7133.21,46762.14,Approved,High-value — CFO noted
+EXP5042,Pooja Iyer,Operations,2024-06-19,Amazon Business,Office Furniture,PRJ-DELTA,3306.4,595.15,3901.55,Approved,
+EXP5043,Meera Pillai,Marketing,2024-12-06,Google Ads,Print Materials,CLIENT-AXB,21382.87,3848.92,25231.79,Rejected,Exceeds budget limit
+EXP5044,Kavya Reddy,Operations,2024-07-10,Adobe,SaaS Subscription,PRJ-ALPHA,16844.48,3032.01,19876.49,Approved,
+EXP5045,Ananya Gupta,Engineering,2024-11-12,Zomato for Business,Team Dinner,PRJ-ZETA,38489.83,6928.17,45418.0,Rejected,Missing invoice
+EXP5046,Ravi Sharma,Sales,2024-07-27,Ola Corporate,Cab Reimbursement,PRJ-GAMMA,19089.79,3436.16,22525.95,Approved,
+EXP5047,Karan Malhotra,Finance,2024-11-03,Zomato for Business,Corporate Gift,CLIENT-RNL,4944.3,889.97,5834.27,Approved,
+EXP5048,Ravi Sharma,Marketing,2024-04-30,Kalyan Jewellers,Client Lunch,PRJ-BETA,4724.09,850.34,5574.43,Approved,
+EXP5049,Ravi Sharma,Sales,2024-07-23,GitHub,SaaS Subscription,INTERNAL,12823.93,2308.31,15132.24,Rejected,Exceeds budget limit
+EXP5050,Arjun Nair,Marketing,2025-02-13,MakeMyTrip,Hotel Stay,PRJ-ZETA,5183.73,933.07,6116.8,Approved,
+EXP5051,Pooja Iyer,Finance,2024-09-07,LinkedIn Learning,Online Course,PRJ-GAMMA,7592.37,1366.63,8959.0,Approved,
+EXP5052,Meera Pillai,Finance,2024-04-10,MakeMyTrip,Flight Booking,PRJ-DELTA,12289.21,2212.06,14501.27,Rejected,Exceeds budget limit
+EXP5053,Nisha Tiwari,Legal,2024-05-25,Meltwater,Social Media Tools,CLIENT-AXB,16773.59,3019.25,19792.84,Rejected,Missing invoice
+EXP5054,Kavya Reddy,Operations,2024-07-27,Classmate,Printer Ink,PRJ-ALPHA,311.19,56.01,367.2,Approved,
+EXP5055,Priya Mehta,Finance,2025-02-15,Taj Hotel,Corporate Gift,CLIENT-AXB,27315.92,4916.87,32232.79,Rejected,Exceeds budget limit
+EXP5056,Pooja Iyer,HR,2025-02-01,Meta Ads,Event Setup,PRJ-GAMMA,14913.76,2684.48,17598.24,Approved,
+EXP5057,Kavya Reddy,Finance,2024-04-02,Slack,License Renewal,PRJ-DELTA,28987.17,5217.69,34204.86,Approved,High-value — CFO noted
+EXP5058,Kavya Reddy,HR,2024-09-06,AWS,Cloud Hosting,CLIENT-AXB,14501.99,2610.36,17112.35,Approved,
+EXP5059,Amit Desai,HR,2024-12-14,Staples India,Stationery,PRJ-BETA,3316.19,596.91,3913.1,Approved,
+EXP5060,Deepak Rao,Legal,2024-04-22,Ola Corporate,Cab Reimbursement,PRJ-DELTA,14971.12,2694.8,17665.92,Approved,
+EXP5061,Meera Pillai,Marketing,2024-12-27,99designs,Social Media Tools,CLIENT-RNL,15640.48,2815.29,18455.77,Approved,
+EXP5062,Meera Pillai,Marketing,2025-02-11,Treebo Hotels,Train Ticket,PRJ-GAMMA,19019.39,3423.49,22442.88,Rejected,Duplicate entry
+EXP5063,Arjun Nair,HR,2024-04-09,MakeMyTrip,Flight Booking,INTERNAL,9914.16,1784.55,11698.71,Approved,
+EXP5064,Deepak Rao,Engineering,2024-11-18,Meltwater,Ad Campaign,PRJ-DELTA,14662.06,2639.17,17301.23,Pending,Awaiting manager approval
+EXP5065,Priya Mehta,Sales,2024-11-20,Meltwater,Ad Campaign,CLIENT-RNL,40842.5,7351.65,48194.15,Approved,High-value — CFO noted
+EXP5066,Meera Pillai,HR,2024-08-14,Google Ads,Print Materials,CLIENT-RNL,42585.5,7665.39,50250.89,Pending,Awaiting manager approval
+EXP5067,Ananya Gupta,Product,2024-05-10,Meta Ads,Event Setup,PRJ-DELTA,30785.85,5541.45,36327.3,Approved,High-value — CFO noted
+EXP5068,Ananya Gupta,Finance,2024-09-17,Meltwater,Event Setup,PRJ-GAMMA,25156.19,4528.11,29684.3,Approved,High-value — CFO noted
+EXP5069,Deepak Rao,Finance,2024-12-05,Google Ads,Ad Campaign,CLIENT-RNL,36025.8,6484.64,42510.44,Approved,High-value — CFO noted
+EXP5070,Karan Malhotra,Product,2024-08-25,Taj Hotel,Conference Sponsorship,PRJ-DELTA,39157.84,7048.41,46206.25,Approved,High-value — CFO noted
+EXP5071,Nisha Tiwari,Engineering,2024-11-29,AWS,API Credits,CLIENT-RNL,11912.03,2144.17,14056.2,Approved,
+EXP5072,Meera Pillai,Sales,2024-07-17,NASSCOM,Workshop Fee,PRJ-ZETA,3518.63,633.35,4151.98,Approved,
+EXP5073,Pooja Iyer,Finance,2025-02-18,IRCTC,Cab Reimbursement,CLIENT-RNL,1400.99,252.18,1653.17,Pending,Awaiting manager approval
+EXP5074,Amit Desai,Product,2024-04-02,Canva Pro,Social Media Tools,PRJ-GAMMA,18510.09,3331.82,21841.91,Pending,Awaiting manager approval
+EXP5075,Kavya Reddy,Sales,2024-09-09,Urban Company,Pest Control,INTERNAL,2240.6,403.31,2643.91,Pending,Awaiting manager approval
+EXP5076,Kavya Reddy,Engineering,2024-07-10,99designs,Event Setup,PRJ-BETA,20727.73,3730.99,24458.72,Pending,Awaiting manager approval
+EXP5077,Amit Desai,Sales,2025-01-27,Notion,API Credits,PRJ-ALPHA,3500.44,630.08,4130.52,Approved,
+EXP5078,Amit Desai,Finance,2025-03-05,Google Ads,Print Materials,CLIENT-AXB,17148.87,3086.8,20235.67,Rejected,Exceeds budget limit
+EXP5079,Meera Pillai,Engineering,2024-11-06,Eureka Forbes,Electrical Work,PRJ-BETA,14035.25,2526.34,16561.59,Approved,
+EXP5080,Pooja Iyer,Product,2024-10-28,LinkedIn Learning,Online Course,PRJ-ALPHA,3418.04,615.25,4033.29,Rejected,Exceeds budget limit
+EXP5081,Meera Pillai,Operations,2024-10-30,Zoho,License Renewal,PRJ-ZETA,19851.86,3573.33,23425.19,Pending,Awaiting manager approval
+EXP5082,Arjun Nair,Product,2024-09-02,Coursera for Business,Conference Registration,PRJ-GAMMA,4948.79,890.78,5839.57,Approved,
+EXP5083,Rahul Joshi,HR,2024-12-11,Flipkart Gifts,Team Dinner,PRJ-GAMMA,8907.67,1603.38,10511.05,Rejected,Missing invoice
+EXP5084,Sneha Kulkarni,Operations,2024-06-29,LinkedIn Learning,Workshop Fee,INTERNAL,16377.62,2947.97,19325.59,Approved,
+EXP5085,Rahul Joshi,Engineering,2024-07-13,Canva Pro,Social Media Tools,PRJ-DELTA,14971.51,2694.87,17666.38,Pending,Awaiting manager approval
+EXP5086,Deepak Rao,Product,2024-05-02,Google Workspace,License Renewal,PRJ-DELTA,8495.12,1529.12,10024.24,Approved,
+EXP5087,Amit Desai,Legal,2024-08-06,Flipkart Gifts,Conference Sponsorship,PRJ-ALPHA,2741.37,493.45,3234.82,Approved,
+EXP5088,Priya Mehta,Product,2025-03-30,Coursera for Business,Conference Registration,CLIENT-AXB,17253.65,3105.66,20359.31,Rejected,Exceeds budget limit
+EXP5089,Vikram Singh,Sales,2024-08-06,Amazon Business,Printer Ink,PRJ-BETA,863.03,155.35,1018.38,Pending,Awaiting manager approval
+EXP5090,Ananya Gupta,Engineering,2024-04-21,Eureka Forbes,AC Servicing,PRJ-ALPHA,14455.31,2601.96,17057.27,Approved,
+EXP5091,Priya Mehta,Finance,2025-02-15,Coursera for Business,Conference Registration,PRJ-BETA,10963.82,1973.49,12937.31,Approved,
+EXP5092,Siddharth Bose,HR,2025-01-24,ITC Restaurants,Team Dinner,PRJ-ALPHA,22192.84,3994.71,26187.55,Approved,High-value — CFO noted
+EXP5093,Vikram Singh,Finance,2024-11-22,GitHub,Cloud Hosting,PRJ-DELTA,7788.22,1401.88,9190.1,Rejected,Exceeds budget limit
+EXP5094,Pooja Iyer,Finance,2025-03-27,IRCTC,Flight Booking,CLIENT-AXB,7025.6,1264.61,8290.21,Approved,
+EXP5095,Ravi Sharma,Legal,2025-03-08,GitHub,Cloud Hosting,INTERNAL,11188.44,2013.92,13202.36,Pending,Awaiting manager approval
+EXP5096,Nisha Tiwari,HR,2024-10-20,Treebo Hotels,Cab Reimbursement,PRJ-BETA,12795.83,2303.25,15099.08,Approved,
+EXP5097,Pooja Iyer,Finance,2024-07-12,Eureka Forbes,AC Servicing,PRJ-DELTA,11526.83,2074.83,13601.66,Approved,
+EXP5098,Arjun Nair,Sales,2024-08-30,TechGig,Conference Registration,PRJ-DELTA,8922.97,1606.13,10529.1,Pending,Awaiting manager approval
+EXP5099,Ravi Sharma,Engineering,2025-03-07,Udemy for Teams,Online Course,PRJ-DELTA,19508.25,3511.48,23019.73,Approved,
+EXP5100,Rahul Joshi,Legal,2024-06-12,IRCTC,Flight Booking,CLIENT-RNL,18531.92,3335.75,21867.67,Approved,
+EXP5101,Deepak Rao,Marketing,2024-05-11,Google Workspace,Cloud Hosting,CLIENT-RNL,9698.9,1745.8,11444.7,Approved,
+EXP5102,Priya Mehta,Operations,2024-10-11,Google Workspace,API Credits,PRJ-ALPHA,8754.29,1575.77,10330.06,Approved,
+EXP5103,Kavya Reddy,Legal,2024-09-27,OYO Business,Hotel Stay,PRJ-ZETA,2923.8,526.28,3450.08,Pending,Awaiting manager approval
+EXP5104,Karan Malhotra,Product,2025-03-28,Faber-Castell,Office Furniture,CLIENT-RNL,2721.81,489.93,3211.74,Approved,
+EXP5105,Siddharth Bose,Engineering,2024-11-29,Google Ads,Social Media Tools,CLIENT-AXB,20027.25,3604.9,23632.15,Approved,High-value — CFO noted
+EXP5106,Sneha Kulkarni,Sales,2024-11-24,Secure Meters,Server Repair,PRJ-BETA,5416.51,974.97,6391.48,Rejected,Exceeds budget limit
+EXP5107,Amit Desai,Engineering,2024-09-19,Zoho,License Renewal,PRJ-ALPHA,27535.56,4956.4,32491.96,Rejected,Duplicate entry
+EXP5108,Pooja Iyer,Engineering,2024-05-04,Urban Company,AC Servicing,CLIENT-RNL,11952.08,2151.37,14103.45,Pending,Awaiting manager approval
+EXP5109,Ravi Sharma,Product,2024-11-07,Amazon Business,Whiteboard Supplies,PRJ-ZETA,4936.58,888.58,5825.16,Approved,
+EXP5110,Priya Mehta,Operations,2024-09-15,Zomato for Business,Team Dinner,PRJ-DELTA,30486.1,5487.5,35973.6,Pending,Awaiting manager approval
+EXP5111,Vikram Singh,Legal,2024-08-05,OYO Business,Flight Booking,INTERNAL,24522.19,4413.99,28936.18,Approved,High-value — CFO noted
+EXP5112,Priya Mehta,Sales,2024-05-24,Google Workspace,SaaS Subscription,CLIENT-AXB,29658.75,5338.57,34997.32,Pending,Awaiting manager approval
+EXP5113,Pooja Iyer,Marketing,2024-11-15,Classmate,Printer Ink,PRJ-DELTA,6806.5,1225.17,8031.67,Rejected,Duplicate entry
+EXP5114,Amit Desai,Finance,2024-06-02,Slack,License Renewal,INTERNAL,22272.99,4009.14,26282.13,Approved,High-value — CFO noted
+EXP5115,Sneha Kulkarni,Product,2024-07-11,Amazon Business,Printer Ink,PRJ-GAMMA,7096.51,1277.37,8373.88,Approved,
+EXP5116,Amit Desai,HR,2025-01-22,GitHub,SaaS Subscription,PRJ-DELTA,16026.11,2884.7,18910.81,Rejected,Duplicate entry
+EXP5117,Pooja Iyer,Product,2024-05-22,MakeMyTrip,Flight Booking,PRJ-DELTA,22927.89,4127.02,27054.91,Pending,Awaiting manager approval
+EXP5118,Sneha Kulkarni,Finance,2024-04-21,Staples India,Stationery,PRJ-DELTA,3103.45,558.62,3662.07,Approved,
+EXP5119,Priya Mehta,Product,2024-07-01,Coursera for Business,Certification Exam,INTERNAL,1710.67,307.92,2018.59,Approved,
+EXP5120,Ravi Sharma,Marketing,2024-09-22,Ola Corporate,Hotel Stay,PRJ-DELTA,20615.76,3710.84,24326.6,Approved,High-value — CFO noted
+EXP5121,Sneha Kulkarni,Operations,2024-10-27,Staples India,Office Furniture,PRJ-ALPHA,4474.75,805.45,5280.2,Pending,Awaiting manager approval
+EXP5122,Vikram Singh,Legal,2024-05-03,Treebo Hotels,Train Ticket,PRJ-GAMMA,3005.89,541.06,3546.95,Rejected,Missing invoice
+EXP5123,Rahul Joshi,Finance,2024-10-21,Kalyan Jewellers,Team Dinner,PRJ-ALPHA,30195.5,5435.19,35630.69,Approved,High-value — CFO noted
+EXP5124,Deepak Rao,Legal,2024-09-30,Kalyan Jewellers,Client Lunch,PRJ-DELTA,29529.22,5315.26,34844.48,Pending,Awaiting manager approval
+EXP5125,Priya Mehta,Engineering,2024-07-14,Flipkart Gifts,Corporate Gift,PRJ-BETA,23745.13,4274.12,28019.25,Pending,Awaiting manager approval
+EXP5126,Ravi Sharma,Product,2024-10-04,Eureka Forbes,AC Servicing,PRJ-ALPHA,2566.2,461.92,3028.12,Rejected,Exceeds budget limit
+EXP5127,Kavya Reddy,Operations,2024-05-16,Google Ads,Print Materials,PRJ-ZETA,27015.63,4862.81,31878.44,Approved,High-value — CFO noted
+EXP5128,Amit Desai,Sales,2024-05-05,ITC Restaurants,Conference Sponsorship,PRJ-GAMMA,39058.54,7030.54,46089.08,Approved,High-value — CFO noted
+EXP5129,Karan Malhotra,Operations,2024-12-04,MakeMyTrip,Train Ticket,PRJ-GAMMA,15829.48,2849.31,18678.79,Approved,
+EXP5130,Ananya Gupta,HR,2025-02-09,Eureka Forbes,Electrical Work,PRJ-DELTA,6296.31,1133.34,7429.65,Approved,
+EXP5131,Arjun Nair,Marketing,2024-12-22,Taj Hotel,Team Dinner,PRJ-DELTA,3082.31,554.82,3637.13,Approved,
+EXP5132,Rahul Joshi,Engineering,2025-01-13,Meta Ads,Event Setup,CLIENT-RNL,42752.46,7695.44,50447.9,Rejected,Exceeds budget limit
+EXP5133,Rahul Joshi,Legal,2025-02-27,GitHub,Cloud Hosting,INTERNAL,15355.56,2764.0,18119.56,Pending,Awaiting manager approval
+EXP5134,Sneha Kulkarni,Engineering,2024-07-01,OYO Business,Train Ticket,CLIENT-RNL,19675.39,3541.57,23216.96,Rejected,Exceeds budget limit
+EXP5135,Arjun Nair,Product,2024-07-01,Taj Hotel,Client Lunch,INTERNAL,15565.29,2801.75,18367.04,Pending,Awaiting manager approval
+EXP5136,Karan Malhotra,Engineering,2024-11-13,MakeMyTrip,Hotel Stay,INTERNAL,2735.22,492.34,3227.56,Rejected,Duplicate entry
+EXP5137,Meera Pillai,Marketing,2024-10-11,IndiGo Airlines,Flight Booking,PRJ-BETA,3985.14,717.33,4702.47,Approved,
+EXP5138,Priya Mehta,Finance,2024-12-08,Eureka Forbes,AC Servicing,INTERNAL,11464.61,2063.63,13528.24,Rejected,Missing invoice
+EXP5139,Amit Desai,Finance,2024-09-13,Eureka Forbes,Electrical Work,CLIENT-RNL,9082.37,1634.83,10717.2,Approved,
+EXP5140,Sneha Kulkarni,HR,2025-02-10,AWS,License Renewal,PRJ-GAMMA,5256.27,946.13,6202.4,Pending,Awaiting manager approval

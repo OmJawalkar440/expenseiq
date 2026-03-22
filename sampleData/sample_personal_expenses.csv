@@ -1,0 +1,131 @@
+Txn_ID,Transaction_Date,Description,Merchant,Category,Sub_Category,Payment_Mode,Amount_INR,City,State,Is_Recurring,Notes
+TXN1001,27-11-2024,Fuel at HPCL,HPCL,Transport,Fuel,Debit Card,358.12,Pune,Maharashtra,No,
+TXN1002,26-02-2024,Bus/Metro at Indian Oil,Indian Oil,Transport,Bus/Metro,UPI,351.4,Mumbai,Maharashtra,No,
+TXN1003,19-09-2024,Groceries at Haldirams,Haldirams,Food & Dining,Groceries,Credit Card,1329.24,Nashik,Maharashtra,No,
+TXN1004,08-01-2024,Water at Airtel,Airtel,Utilities,Water,Debit Card,1125.85,Pune,Maharashtra,No,
+TXN1005,25-06-2024,Fuel at BEST Bus,BEST Bus,Transport,Fuel,UPI,1275.82,Nagpur,Maharashtra,No,
+TXN1006,09-11-2024,Clothing at Westside,Westside,Shopping,Clothing,Cash,1261.16,Aurangabad,Maharashtra,No,
+TXN1007,16-07-2024,Auto at BMTC,BMTC,Transport,Auto,Wallet,1331.61,Aurangabad,Maharashtra,No,
+TXN1008,08-07-2024,Medicine at Apollo Pharmacy,Apollo Pharmacy,Healthcare,Medicine,Wallet,3899.38,Pune,Maharashtra,No,
+TXN1009,14-02-2024,Medicine at SRL Diagnostics,SRL Diagnostics,Healthcare,Medicine,Debit Card,3233.07,Nashik,Maharashtra,No,
+TXN1010,09-07-2024,Mobile at Airtel,Airtel,Utilities,Mobile,Credit Card,3217.83,Nagpur,Maharashtra,Yes,Monthly bill
+TXN1011,19-12-2024,Cab at Rapido,Rapido,Transport,Cab,Wallet,270.2,Pune,Maharashtra,No,
+TXN1012,17-07-2024,Electronics at Westside,Westside,Shopping,Electronics,Debit Card,2063.67,Mumbai,Maharashtra,No,
+TXN1013,21-01-2024,Events at BookMyShow,BookMyShow,Entertainment,Events,UPI,1378.3,Pune,Maharashtra,No,
+TXN1014,21-10-2024,Movies at Prime Video,Prime Video,Entertainment,Movies,Cash,1338.44,Nashik,Maharashtra,No,
+TXN1015,29-11-2024,Gym at Nykaa,Nykaa,Personal Care,Gym,Credit Card,2298.72,Pune,Maharashtra,Yes,Monthly bill
+TXN1016,06-10-2024,Accessories at H&M,H&M,Shopping,Accessories,Cash,1988.77,Nagpur,Maharashtra,No,
+TXN1017,15-03-2024,Salon at Lakme Salon,Lakme Salon,Personal Care,Salon,UPI,1975.48,Pune,Maharashtra,No,
+TXN1018,18-12-2024,Course Fee at Crossword,Crossword,Education,Course Fee,Cash,11954.23,Aurangabad,Maharashtra,No,High value purchase
+TXN1019,01-10-2024,Clothing at Westside,Westside,Shopping,Clothing,Wallet,5549.17,Mumbai,Maharashtra,No,High value purchase
+TXN1020,05-10-2024,Home Decor at Myntra,Myntra,Shopping,Home Decor,Debit Card,1517.81,Nashik,Maharashtra,No,
+TXN1021,06-01-2024,Electronics at H&M,H&M,Shopping,Electronics,UPI,6780.85,Nagpur,Maharashtra,No,High value purchase
+TXN1022,20-09-2024,Doctor Visit at Dr. Agarwal Clinic,Dr. Agarwal Clinic,Healthcare,Doctor Visit,Credit Card,4774.47,Aurangabad,Maharashtra,No,
+TXN1023,02-10-2024,Cafe at More Supermarket,More Supermarket,Food & Dining,Cafe,UPI,2049.69,Mumbai,Maharashtra,No,
+TXN1024,10-06-2024,Medicine at MedPlus,MedPlus,Healthcare,Medicine,Net Banking,565.42,Mumbai,Maharashtra,No,
+TXN1025,09-09-2024,Cab at Ola,Ola,Transport,Cab,Wallet,1421.87,Nashik,Maharashtra,No,
+TXN1026,29-03-2024,Accessories at Flipkart,Flipkart,Shopping,Accessories,Net Banking,5789.71,Pune,Maharashtra,No,High value purchase
+TXN1027,27-07-2024,Events at Spotify,Spotify,Entertainment,Events,Cash,446.32,Mumbai,Maharashtra,No,
+TXN1028,06-02-2024,OTT at Spotify,Spotify,Entertainment,OTT,Net Banking,923.4,Pune,Maharashtra,Yes,Monthly bill
+TXN1029,08-01-2024,Fuel at Ola,Ola,Transport,Fuel,UPI,1293.66,Mumbai,Maharashtra,No,
+TXN1030,10-02-2024,Lab Test at SRL Diagnostics,SRL Diagnostics,Healthcare,Lab Test,Credit Card,791.71,Aurangabad,Maharashtra,No,
+TXN1031,23-10-2024,Gym at Naturals Salon,Naturals Salon,Personal Care,Gym,Cash,509.4,Pune,Maharashtra,Yes,Monthly bill
+TXN1032,07-12-2024,Stationery at Crossword,Crossword,Education,Stationery,Cash,10393.14,Nashik,Maharashtra,No,High value purchase
+TXN1033,01-02-2024,Fuel at BEST Bus,BEST Bus,Transport,Fuel,Wallet,1206.87,Nagpur,Maharashtra,No,
+TXN1034,29-02-2024,Doctor Visit at MedPlus,MedPlus,Healthcare,Doctor Visit,Net Banking,829.88,Nashik,Maharashtra,No,
+TXN1035,07-04-2024,Accessories at Flipkart,Flipkart,Shopping,Accessories,UPI,6521.77,Nashik,Maharashtra,No,High value purchase
+TXN1036,12-10-2024,Fuel at HPCL,HPCL,Transport,Fuel,Net Banking,1454.42,Mumbai,Maharashtra,No,
+TXN1037,05-05-2024,Water at BSNL,BSNL,Utilities,Water,Cash,3918.0,Pune,Maharashtra,No,
+TXN1038,04-02-2024,Water at MSEDCL,MSEDCL,Utilities,Water,Cash,4184.03,Nagpur,Maharashtra,No,
+TXN1039,24-08-2024,Accessories at Westside,Westside,Shopping,Accessories,Wallet,5396.41,Aurangabad,Maharashtra,No,High value purchase
+TXN1040,10-09-2024,Internet at Airtel,Airtel,Utilities,Internet,Credit Card,2690.48,Mumbai,Maharashtra,Yes,Monthly bill
+TXN1041,08-10-2024,Cafe at Zomato,Zomato,Food & Dining,Cafe,UPI,1090.79,Aurangabad,Maharashtra,No,
+TXN1042,02-10-2024,Electricity at Tata Power,Tata Power,Utilities,Electricity,UPI,494.64,Pune,Maharashtra,Yes,Monthly bill
+TXN1043,08-02-2024,Health Insurance at Apollo Pharmacy,Apollo Pharmacy,Healthcare,Health Insurance,Net Banking,2957.76,Pune,Maharashtra,Yes,Monthly bill
+TXN1044,25-01-2024,Bus/Metro at HPCL,HPCL,Transport,Bus/Metro,Net Banking,798.49,Aurangabad,Maharashtra,No,
+TXN1045,17-05-2024,Lab Test at MedPlus,MedPlus,Healthcare,Lab Test,Debit Card,784.76,Nashik,Maharashtra,No,
+TXN1046,30-11-2024,Accessories at Amazon,Amazon,Shopping,Accessories,UPI,3828.8,Mumbai,Maharashtra,No,
+TXN1047,19-10-2024,Fuel at Rapido,Rapido,Transport,Fuel,Credit Card,419.84,Aurangabad,Maharashtra,No,
+TXN1048,01-07-2024,Cab at Uber,Uber,Transport,Cab,Debit Card,674.13,Pune,Maharashtra,No,
+TXN1049,09-10-2024,Clothing at Westside,Westside,Shopping,Clothing,Net Banking,7474.52,Nagpur,Maharashtra,No,High value purchase
+TXN1050,27-02-2024,Mobile at MSEDCL,MSEDCL,Utilities,Mobile,UPI,868.43,Aurangabad,Maharashtra,Yes,Monthly bill
+TXN1051,28-05-2024,Lab Test at MedPlus,MedPlus,Healthcare,Lab Test,Wallet,2601.23,Nagpur,Maharashtra,No,
+TXN1052,12-05-2024,Restaurant at Haldirams,Haldirams,Food & Dining,Restaurant,Debit Card,87.52,Mumbai,Maharashtra,No,
+TXN1053,11-03-2024,Electronics at Westside,Westside,Shopping,Electronics,Cash,5733.64,Aurangabad,Maharashtra,No,High value purchase
+TXN1054,18-10-2024,Restaurant at Swiggy,Swiggy,Food & Dining,Restaurant,Wallet,1236.65,Pune,Maharashtra,No,
+TXN1055,12-07-2024,Water at Jio,Jio,Utilities,Water,UPI,1768.0,Nagpur,Maharashtra,No,
+TXN1056,25-01-2024,Movies at Prime Video,Prime Video,Entertainment,Movies,Credit Card,594.5,Mumbai,Maharashtra,No,
+TXN1057,17-10-2024,Books at Coursera,Coursera,Education,Books,Credit Card,10600.59,Pune,Maharashtra,No,High value purchase
+TXN1058,17-01-2024,Mobile at BSNL,BSNL,Utilities,Mobile,Wallet,1347.26,Pune,Maharashtra,Yes,Monthly bill
+TXN1059,29-12-2024,Bus/Metro at BMTC,BMTC,Transport,Bus/Metro,UPI,356.98,Nashik,Maharashtra,No,
+TXN1060,27-08-2024,Gaming at PVR Cinemas,PVR Cinemas,Entertainment,Gaming,Credit Card,1023.71,Mumbai,Maharashtra,No,
+TXN1061,27-07-2024,Gaming at Netflix,Netflix,Entertainment,Gaming,Debit Card,997.72,Nagpur,Maharashtra,No,
+TXN1062,27-07-2024,OTT at Netflix,Netflix,Entertainment,OTT,Debit Card,912.41,Pune,Maharashtra,Yes,Monthly bill
+TXN1063,19-05-2024,Restaurant at Haldirams,Haldirams,Food & Dining,Restaurant,Debit Card,1005.16,Nagpur,Maharashtra,No,
+TXN1064,22-09-2024,Bus/Metro at Rapido,Rapido,Transport,Bus/Metro,Credit Card,95.25,Nagpur,Maharashtra,No,
+TXN1065,15-08-2024,Groceries at Chai Point,Chai Point,Food & Dining,Groceries,Cash,2091.61,Mumbai,Maharashtra,No,
+TXN1066,22-06-2024,OTT at Prime Video,Prime Video,Entertainment,OTT,Debit Card,532.31,Aurangabad,Maharashtra,Yes,Monthly bill
+TXN1067,01-08-2024,Events at Prime Video,Prime Video,Entertainment,Events,Debit Card,277.33,Aurangabad,Maharashtra,No,
+TXN1068,07-08-2024,Books at BYJU'S,BYJU'S,Education,Books,Net Banking,4991.09,Nagpur,Maharashtra,No,
+TXN1069,05-01-2024,Home Decor at Flipkart,Flipkart,Shopping,Home Decor,Cash,4971.29,Aurangabad,Maharashtra,No,
+TXN1070,17-06-2024,Spa at Naturals Salon,Naturals Salon,Personal Care,Spa,Wallet,1655.73,Pune,Maharashtra,No,
+TXN1071,31-03-2024,Auto at Rapido,Rapido,Transport,Auto,Wallet,522.73,Aurangabad,Maharashtra,No,
+TXN1072,04-05-2024,Electronics at Flipkart,Flipkart,Shopping,Electronics,Credit Card,655.85,Mumbai,Maharashtra,No,
+TXN1073,04-09-2024,Bus/Metro at BEST Bus,BEST Bus,Transport,Bus/Metro,Wallet,315.82,Aurangabad,Maharashtra,No,
+TXN1074,26-12-2024,Coaching at Crossword,Crossword,Education,Coaching,Credit Card,7941.14,Pune,Maharashtra,No,High value purchase
+TXN1075,07-01-2024,Bus/Metro at Ola,Ola,Transport,Bus/Metro,Credit Card,712.89,Aurangabad,Maharashtra,No,
+TXN1076,16-10-2024,Medicine at SRL Diagnostics,SRL Diagnostics,Healthcare,Medicine,Credit Card,3387.75,Nashik,Maharashtra,No,
+TXN1077,17-10-2024,Events at Spotify,Spotify,Entertainment,Events,Wallet,696.86,Aurangabad,Maharashtra,No,
+TXN1078,11-10-2024,Gym at Naturals Salon,Naturals Salon,Personal Care,Gym,Cash,2317.39,Nagpur,Maharashtra,Yes,Monthly bill
+TXN1079,26-11-2024,Accessories at Westside,Westside,Shopping,Accessories,Credit Card,3687.02,Nagpur,Maharashtra,No,
+TXN1080,30-05-2024,Lab Test at Dr. Agarwal Clinic,Dr. Agarwal Clinic,Healthcare,Lab Test,Debit Card,540.8,Aurangabad,Maharashtra,No,
+TXN1081,22-03-2024,Health Insurance at MedPlus,MedPlus,Healthcare,Health Insurance,Wallet,461.51,Pune,Maharashtra,Yes,Monthly bill
+TXN1082,31-07-2024,Events at Steam,Steam,Entertainment,Events,UPI,1265.88,Pune,Maharashtra,No,
+TXN1083,22-07-2024,Street Food at More Supermarket,More Supermarket,Food & Dining,Street Food,UPI,713.06,Nagpur,Maharashtra,No,
+TXN1084,22-07-2024,Books at Crossword,Crossword,Education,Books,Credit Card,5342.3,Nagpur,Maharashtra,No,High value purchase
+TXN1085,19-01-2024,Stationery at Crossword,Crossword,Education,Stationery,Wallet,10117.81,Pune,Maharashtra,No,High value purchase
+TXN1086,10-03-2024,Street Food at Zomato,Zomato,Food & Dining,Street Food,UPI,367.68,Nashik,Maharashtra,No,
+TXN1087,28-08-2024,Electricity at Airtel,Airtel,Utilities,Electricity,Cash,1110.14,Nagpur,Maharashtra,Yes,Monthly bill
+TXN1088,20-06-2024,Events at BookMyShow,BookMyShow,Entertainment,Events,Cash,1268.71,Nagpur,Maharashtra,No,
+TXN1089,01-09-2024,Restaurant at Chai Point,Chai Point,Food & Dining,Restaurant,Credit Card,1736.21,Mumbai,Maharashtra,No,
+TXN1090,03-12-2024,Restaurant at Big Bazaar,Big Bazaar,Food & Dining,Restaurant,Credit Card,1397.23,Mumbai,Maharashtra,No,
+TXN1091,06-05-2024,Water at BWSSB,BWSSB,Utilities,Water,UPI,4275.36,Aurangabad,Maharashtra,No,
+TXN1092,30-08-2024,Home Decor at Flipkart,Flipkart,Shopping,Home Decor,Net Banking,7720.76,Aurangabad,Maharashtra,No,High value purchase
+TXN1093,03-03-2024,Mobile at MSEDCL,MSEDCL,Utilities,Mobile,Net Banking,4194.21,Mumbai,Maharashtra,Yes,Monthly bill
+TXN1094,25-10-2024,Coaching at Coursera,Coursera,Education,Coaching,UPI,8348.94,Aurangabad,Maharashtra,No,High value purchase
+TXN1095,21-11-2024,Medicine at Dr. Agarwal Clinic,Dr. Agarwal Clinic,Healthcare,Medicine,Wallet,4056.81,Aurangabad,Maharashtra,No,
+TXN1096,20-10-2024,Cafe at Haldirams,Haldirams,Food & Dining,Cafe,Wallet,226.19,Nagpur,Maharashtra,No,
+TXN1097,01-12-2024,OTT at Steam,Steam,Entertainment,OTT,Cash,706.37,Mumbai,Maharashtra,Yes,Monthly bill
+TXN1098,08-07-2024,Gym at Naturals Salon,Naturals Salon,Personal Care,Gym,Credit Card,2905.05,Aurangabad,Maharashtra,Yes,Monthly bill
+TXN1099,22-05-2024,Spa at Naturals Salon,Naturals Salon,Personal Care,Spa,Wallet,988.09,Aurangabad,Maharashtra,No,
+TXN1100,09-05-2024,Auto at BEST Bus,BEST Bus,Transport,Auto,Credit Card,867.68,Nashik,Maharashtra,No,
+TXN1101,12-12-2024,Stationery at Udemy,Udemy,Education,Stationery,Cash,2344.89,Nagpur,Maharashtra,No,
+TXN1102,22-04-2024,Gaming at BookMyShow,BookMyShow,Entertainment,Gaming,Debit Card,1081.36,Aurangabad,Maharashtra,No,
+TXN1103,25-05-2024,Groceries at Swiggy,Swiggy,Food & Dining,Groceries,Credit Card,1115.79,Nashik,Maharashtra,No,
+TXN1104,07-05-2024,Spa at Naturals Salon,Naturals Salon,Personal Care,Spa,UPI,1059.15,Mumbai,Maharashtra,No,
+TXN1105,30-07-2024,Lab Test at Star Health,Star Health,Healthcare,Lab Test,Debit Card,2834.34,Nashik,Maharashtra,No,
+TXN1106,29-06-2024,Stationery at Amazon Books,Amazon Books,Education,Stationery,Wallet,3396.08,Nashik,Maharashtra,No,
+TXN1107,12-05-2024,Medicine at MedPlus,MedPlus,Healthcare,Medicine,Debit Card,3752.97,Mumbai,Maharashtra,No,
+TXN1108,23-12-2024,Internet at Jio,Jio,Utilities,Internet,Wallet,1388.95,Nashik,Maharashtra,Yes,Monthly bill
+TXN1109,01-11-2024,Clothing at Flipkart,Flipkart,Shopping,Clothing,Debit Card,3078.78,Pune,Maharashtra,No,
+TXN1110,07-06-2024,Groceries at Starbucks,Starbucks,Food & Dining,Groceries,UPI,1253.12,Mumbai,Maharashtra,No,
+TXN1111,27-12-2024,Water at MSEDCL,MSEDCL,Utilities,Water,UPI,1422.66,Aurangabad,Maharashtra,No,
+TXN1112,06-09-2024,Cosmetics at Cult.fit,Cult.fit,Personal Care,Cosmetics,UPI,2837.92,Nagpur,Maharashtra,No,
+TXN1113,05-09-2024,Fuel at BEST Bus,BEST Bus,Transport,Fuel,Cash,878.22,Mumbai,Maharashtra,No,
+TXN1114,21-12-2024,Groceries at DMart,DMart,Food & Dining,Groceries,Net Banking,260.58,Nagpur,Maharashtra,No,
+TXN1115,11-05-2024,Bus/Metro at Rapido,Rapido,Transport,Bus/Metro,Net Banking,361.76,Aurangabad,Maharashtra,No,
+TXN1116,28-09-2024,Coaching at Crossword,Crossword,Education,Coaching,Debit Card,11882.36,Aurangabad,Maharashtra,No,High value purchase
+TXN1117,09-06-2024,Restaurant at Big Bazaar,Big Bazaar,Food & Dining,Restaurant,Wallet,641.05,Pune,Maharashtra,No,
+TXN1118,15-02-2024,Internet at Jio,Jio,Utilities,Internet,Net Banking,873.09,Mumbai,Maharashtra,Yes,Monthly bill
+TXN1119,01-08-2024,Spa at Nykaa,Nykaa,Personal Care,Spa,UPI,1042.29,Pune,Maharashtra,No,
+TXN1120,28-05-2024,Salon at Cult.fit,Cult.fit,Personal Care,Salon,Debit Card,2068.25,Aurangabad,Maharashtra,No,
+TXN1121,15-04-2024,Course Fee at BYJU'S,BYJU'S,Education,Course Fee,Credit Card,10919.16,Pune,Maharashtra,No,High value purchase
+TXN1122,17-03-2024,Fuel at Ola,Ola,Transport,Fuel,Debit Card,1130.97,Aurangabad,Maharashtra,No,
+TXN1123,22-10-2024,Accessories at Myntra,Myntra,Shopping,Accessories,Cash,5687.95,Nagpur,Maharashtra,No,High value purchase
+TXN1124,23-05-2024,Spa at Lakme Salon,Lakme Salon,Personal Care,Spa,Net Banking,2695.91,Mumbai,Maharashtra,No,
+TXN1125,18-06-2024,Clothing at Myntra,Myntra,Shopping,Clothing,Credit Card,4820.85,Aurangabad,Maharashtra,No,
+TXN1126,15-01-2024,Clothing at Flipkart,Flipkart,Shopping,Clothing,Cash,5316.62,Aurangabad,Maharashtra,No,High value purchase
+TXN1127,26-05-2024,Water at BWSSB,BWSSB,Utilities,Water,Cash,2221.04,Mumbai,Maharashtra,No,
+TXN1128,01-08-2024,Gaming at Prime Video,Prime Video,Entertainment,Gaming,UPI,561.05,Pune,Maharashtra,No,
+TXN1129,25-12-2024,Cosmetics at Naturals Salon,Naturals Salon,Personal Care,Cosmetics,Net Banking,1500.77,Mumbai,Maharashtra,No,
+TXN1130,14-06-2024,Home Decor at Myntra,Myntra,Shopping,Home Decor,Cash,6651.94,Aurangabad,Maharashtra,No,High value purchase

@@ -1,0 +1,121 @@
+Order_Ref,Purchase_Date,Platform,Product_Name,Brand,Product_Category,Quantity,Unit_Price,Discount_Applied,Final_Paid,Delivery_Charge,Return_Status
+ORD10001,24/04/2024,Tata Cliq,Wrangler Kurta Set,Wrangler,Clothing,2,1553.51,310.7,2855.32,59,Delivered
+ORD10002,28/06/2024,Flipkart,Nivea Lip Balm,Nivea,Beauty & Skincare,1,1266.77,63.34,1282.43,79,Delivered
+ORD10003,25/11/2024,Tata Cliq,Cosco Whey Protein,Cosco,Sports & Fitness,1,3337.55,667.51,2670.04,0,Delivered
+ORD10004,01/10/2024,Flipkart,Classmate Sketch Pens,Classmate,Books & Stationery,1,126.81,19.02,107.79,0,Delivered
+ORD10005,30/06/2024,Flipkart,Navneet Gel Pen Pack,Navneet,Books & Stationery,3,757.78,227.33,2046.01,0,Delivered
+ORD10006,01/10/2024,Myntra,Boldfit Whey Protein,Boldfit,Sports & Fitness,1,6618.54,0.0,6618.54,0,Delivered
+ORD10007,27/12/2023,Snapdeal,Boldfit Resistance Bands,Boldfit,Sports & Fitness,1,6569.38,328.47,6240.91,0,Returned
+ORD10008,03/10/2023,Tata Cliq,Milton Mixer Grinder,Milton,Home & Kitchen,2,1865.79,0.0,3790.58,59,Delivered
+ORD10009,14/05/2024,Meesho,mCaffeine Sunscreen SPF50,mCaffeine,Beauty & Skincare,1,1086.95,0.0,1086.95,0,Refund Initiated
+ORD10010,16/12/2024,Myntra,mCaffeine Moisturizer,mCaffeine,Beauty & Skincare,1,404.78,20.24,384.54,0,Delivered
+ORD10011,14/12/2023,Nykaa,Dot & Key Eye Cream,Dot & Key,Beauty & Skincare,2,2264.41,0.0,4607.82,79,Delivered
+ORD10012,04/01/2024,Flipkart,L'Oreal Face Serum,L'Oreal,Beauty & Skincare,1,1701.67,85.08,1656.59,40,Delivered
+ORD10013,21/03/2024,Tata Cliq,Camlin Planner Diary,Camlin,Books & Stationery,1,678.03,0.0,678.03,0,Refund Initiated
+ORD10014,12/12/2024,Tata Cliq,Harper Collins Highlighter Set,Harper Collins,Books & Stationery,1,1035.87,258.97,776.9,0,Delivered
+ORD10015,21/12/2024,Ajio,Levi's Blazer,Levi's,Clothing,2,1805.27,0.0,3650.54,40,Delivered
+ORD10016,09/02/2024,Flipkart,L'Oreal Body Lotion,L'Oreal,Beauty & Skincare,1,2238.53,223.85,2054.68,40,Delivered
+ORD10017,27/04/2024,Myntra,Solimo Air Fryer,Solimo,Home & Kitchen,1,1813.31,90.67,1722.64,0,Delivered
+ORD10018,06/09/2024,Ajio,Decathlon Skipping Rope,Decathlon,Sports & Fitness,1,6260.93,1878.28,4441.65,59,Delivered
+ORD10019,01/09/2024,Tata Cliq,Strauss Skipping Rope,Strauss,Sports & Fitness,2,2975.48,1487.74,4503.22,40,Delivered
+ORD10020,27/11/2023,Nykaa,JBL Phone Case,JBL,Electronics,2,9346.26,934.63,17757.89,0,Refund Initiated
+ORD10021,09/12/2024,Tata Cliq,Navneet Highlighter Set,Navneet,Books & Stationery,1,303.52,0.0,382.52,79,Delivered
+ORD10022,08/11/2023,Amazon,Mi Power Bank,Mi,Electronics,1,6834.68,1708.67,5175.01,49,Returned
+ORD10023,29/02/2024,Nykaa,Mi Laptop Stand,Mi,Electronics,1,14269.49,1426.95,12842.54,0,Delivered
+ORD10024,16/05/2024,Tata Cliq,Navneet Notebook Set,Navneet,Books & Stationery,1,482.38,72.36,459.02,49,Refund Initiated
+ORD10025,13/04/2024,Myntra,Navneet Sticky Notes,Navneet,Books & Stationery,3,824.48,494.69,1978.75,0,Delivered
+ORD10026,24/06/2024,Amazon,Sony USB Hub,Sony,Electronics,1,1576.02,0.0,1625.02,49,Refund Initiated
+ORD10027,29/06/2024,Meesho,Nivia Gym Gloves,Nivia,Sports & Fitness,1,3014.2,602.84,2411.36,0,Delivered
+ORD10028,19/10/2023,Amazon,Cello Storage Container Set,Cello,Home & Kitchen,1,1514.85,378.71,1215.14,79,Delivered
+ORD10029,26/01/2024,Nykaa,OnePlus Phone Case,OnePlus,Electronics,1,5127.86,0.0,5176.86,49,Delivered
+ORD10030,01/11/2024,Myntra,Decathlon Resistance Bands,Decathlon,Sports & Fitness,1,5255.03,262.75,5071.28,79,Delivered
+ORD10031,16/12/2023,Flipkart,Mi Phone Case,Mi,Electronics,2,6563.54,656.35,12519.73,49,Returned
+ORD10032,24/10/2024,Myntra,Prestige Coffee Mug,Prestige,Home & Kitchen,1,6918.06,691.81,6226.25,0,Refund Initiated
+ORD10033,26/11/2023,Myntra,Oxford Press Fiction Novel,Oxford Press,Books & Stationery,3,338.06,304.25,709.93,0,Delivered
+ORD10034,17/07/2024,Snapdeal,HealthSense Resistance Bands,HealthSense,Sports & Fitness,1,6159.64,1847.89,4311.75,0,Delivered
+ORD10035,09/04/2024,Meesho,Prestige Mixer Grinder,Prestige,Home & Kitchen,3,368.18,55.23,1049.31,0,Delivered
+ORD10036,18/11/2024,Meesho,Philips Air Fryer,Philips,Home & Kitchen,1,3747.65,374.76,3372.89,0,Returned
+ORD10037,14/09/2024,Ajio,Borosil Stainless Steel Bottle,Borosil,Home & Kitchen,1,3325.62,166.28,3208.34,49,Delivered
+ORD10038,20/09/2024,Amazon,Solimo Mixer Grinder,Solimo,Home & Kitchen,3,4451.37,667.71,12686.4,0,Returned
+ORD10039,26/04/2024,Amazon,Levi's Denim Jeans,Levi's,Clothing,1,1109.3,166.4,942.9,0,Returned
+ORD10040,15/10/2023,Nykaa,Wrangler Denim Jeans,Wrangler,Clothing,2,570.74,57.07,1133.41,49,Delivered
+ORD10041,16/12/2023,Amazon,Nivia Running Shoes,Nivia,Sports & Fitness,3,6571.16,0.0,19713.48,0,Returned
+ORD10042,28/01/2024,Ajio,Harper Collins Sticky Notes,Harper Collins,Books & Stationery,1,1106.88,221.38,885.5,0,Delivered
+ORD10043,10/10/2024,Snapdeal,Zara Blazer,Zara,Clothing,3,3459.38,518.91,9859.23,0,Delivered
+ORD10044,12/10/2024,Nykaa,Fabindia Jogger Pants,Fabindia,Clothing,1,3669.88,733.98,3014.9,79,Returned
+ORD10045,09/11/2023,Nykaa,Levi's Blazer,Levi's,Clothing,1,2325.4,116.27,2209.13,0,Delivered
+ORD10046,27/10/2024,Ajio,Harper Collins Self Help Book,Harper Collins,Books & Stationery,1,968.47,0.0,1008.47,40,Delivered
+ORD10047,10/03/2024,Nykaa,JBL Phone Case,JBL,Electronics,3,5046.88,1514.06,13626.58,0,Returned
+ORD10048,28/06/2024,Meesho,W Formal Shirt,W,Clothing,1,1085.46,271.37,814.09,0,Returned
+ORD10049,11/02/2024,Nykaa,Penguin Fiction Novel,Penguin,Books & Stationery,1,476.9,0.0,555.9,79,Delivered
+ORD10050,10/10/2023,Ajio,Solimo Chopping Board,Solimo,Home & Kitchen,2,4667.55,0.0,9335.1,0,Delivered
+ORD10051,17/01/2024,Nykaa,Pigeon Non-stick Pan,Pigeon,Home & Kitchen,1,5553.23,1388.31,4204.92,40,Delivered
+ORD10052,19/09/2024,Ajio,Camlin Sketch Pens,Camlin,Books & Stationery,3,939.56,281.87,2536.81,0,Refund Initiated
+ORD10053,25/03/2024,Flipkart,Cello Non-stick Pan,Cello,Home & Kitchen,1,7921.6,792.16,7178.44,49,Delivered
+ORD10054,16/02/2024,Meesho,Lakme Lip Balm,Lakme,Beauty & Skincare,1,1321.44,0.0,1370.44,49,Refund Initiated
+ORD10055,12/02/2024,Flipkart,Penguin Fiction Novel,Penguin,Books & Stationery,2,395.46,237.28,612.64,59,Delivered
+ORD10056,06/05/2024,Ajio,Lakme Moisturizer,Lakme,Beauty & Skincare,1,2577.68,128.88,2448.8,0,Returned
+ORD10057,21/02/2024,Snapdeal,Boldfit Gym Gloves,Boldfit,Sports & Fitness,1,6973.6,0.0,6973.6,0,Returned
+ORD10058,12/11/2023,Myntra,Harper Collins Sketch Pens,Harper Collins,Books & Stationery,1,1069.06,213.81,855.25,0,Delivered
+ORD10059,02/12/2023,Ajio,Levi's Formal Shirt,Levi's,Clothing,1,315.79,31.58,284.21,0,Delivered
+ORD10060,23/11/2024,Meesho,Allen Solly Formal Shirt,Allen Solly,Clothing,1,1875.57,281.34,1634.23,40,Refund Initiated
+ORD10061,19/11/2023,Flipkart,Pigeon Storage Container Set,Pigeon,Home & Kitchen,2,7245.5,4347.3,10143.7,0,Refund Initiated
+ORD10062,03/12/2023,Amazon,HealthSense Resistance Bands,HealthSense,Sports & Fitness,1,1904.78,190.48,1763.3,49,Delivered
+ORD10063,20/01/2024,Meesho,Classmate Highlighter Set,Classmate,Books & Stationery,1,790.3,39.52,750.78,0,Delivered
+ORD10064,18/06/2024,Myntra,Lakme Body Lotion,Lakme,Beauty & Skincare,1,1744.56,348.91,1435.65,40,Delivered
+ORD10065,20/07/2024,Amazon,Solimo Non-stick Pan,Solimo,Home & Kitchen,1,286.52,42.98,243.54,0,Delivered
+ORD10066,03/10/2023,Nykaa,Realme Power Bank,Realme,Electronics,1,3691.7,369.17,3381.53,59,Delivered
+ORD10067,28/12/2023,Nykaa,Apple Bluetooth Speaker,Apple,Electronics,2,744.04,148.81,1379.27,40,Delivered
+ORD10068,15/06/2024,Amazon,Oxford Press Highlighter Set,Oxford Press,Books & Stationery,1,616.54,30.83,585.71,0,Delivered
+ORD10069,23/10/2023,Ajio,HealthSense Skipping Rope,HealthSense,Sports & Fitness,2,5985.43,2992.72,9027.14,49,Returned
+ORD10070,05/05/2024,Snapdeal,W Jogger Pants,W,Clothing,2,4074.29,1629.72,6518.86,0,Delivered
+ORD10071,09/10/2023,Ajio,Wrangler Blazer,Wrangler,Clothing,1,489.45,122.36,416.09,49,Delivered
+ORD10072,01/12/2024,Ajio,W Formal Shirt,W,Clothing,1,4064.92,1016.23,3048.69,0,Delivered
+ORD10073,10/01/2024,Myntra,boAt Smart Watch,boAt,Electronics,1,8704.25,1740.85,7012.4,49,Delivered
+ORD10074,08/04/2024,Tata Cliq,Philips Chopping Board,Philips,Home & Kitchen,1,8348.76,0.0,8348.76,0,Refund Initiated
+ORD10075,20/11/2023,Amazon,Solimo Coffee Mug,Solimo,Home & Kitchen,1,5125.04,1025.01,4159.03,59,Delivered
+ORD10076,19/02/2024,Tata Cliq,Wrangler Jogger Pants,Wrangler,Clothing,2,1756.85,1054.11,2538.59,79,Delivered
+ORD10077,07/07/2024,Meesho,Levi's Blazer,Levi's,Clothing,1,2998.58,299.86,2738.72,40,Refund Initiated
+ORD10078,14/04/2024,Flipkart,Prestige Air Fryer,Prestige,Home & Kitchen,1,2095.55,314.33,1781.22,0,Delivered
+ORD10079,03/11/2024,Amazon,Van Heusen Formal Shirt,Van Heusen,Clothing,1,5097.36,254.87,4901.49,59,Delivered
+ORD10080,01/11/2024,Amazon,Samsung Charger Adapter,Samsung,Electronics,3,13120.08,5904.04,33456.2,0,Refund Initiated
+ORD10081,25/06/2024,Snapdeal,Oxford Press Fiction Novel,Oxford Press,Books & Stationery,1,321.84,16.09,305.75,0,Refund Initiated
+ORD10082,08/05/2024,Myntra,Van Heusen Denim Jeans,Van Heusen,Clothing,1,4630.06,1389.02,3300.04,59,Delivered
+ORD10083,03/03/2024,Amazon,Nivia Skipping Rope,Nivia,Sports & Fitness,2,4072.7,2443.62,5741.78,40,Delivered
+ORD10084,23/02/2024,Ajio,Cosco Yoga Mat,Cosco,Sports & Fitness,1,5554.62,555.46,5048.16,49,Delivered
+ORD10085,06/09/2024,Tata Cliq,Decathlon Whey Protein,Decathlon,Sports & Fitness,1,3684.12,0.0,3724.12,40,Refund Initiated
+ORD10086,29/04/2024,Meesho,L'Oreal Eye Cream,L'Oreal,Beauty & Skincare,1,149.29,0.0,208.29,59,Delivered
+ORD10087,27/01/2024,Myntra,Strauss Yoga Mat,Strauss,Sports & Fitness,2,1283.22,256.64,2309.8,0,Delivered
+ORD10088,19/04/2024,Ajio,Harper Collins Highlighter Set,Harper Collins,Books & Stationery,1,498.86,24.94,522.92,49,Delivered
+ORD10089,25/05/2024,Meesho,Boldfit Gym Gloves,Boldfit,Sports & Fitness,1,5174.05,1034.81,4139.24,0,Refund Initiated
+ORD10090,11/08/2024,Amazon,mCaffeine Sunscreen SPF50,mCaffeine,Beauty & Skincare,1,2258.04,451.61,1806.43,0,Refund Initiated
+ORD10091,21/04/2024,Ajio,Navneet Planner Diary,Navneet,Books & Stationery,1,447.25,0.0,447.25,0,Delivered
+ORD10092,17/08/2024,Nykaa,Harper Collins Gel Pen Pack,Harper Collins,Books & Stationery,3,877.41,131.61,2500.62,0,Delivered
+ORD10093,03/01/2024,Amazon,Nivia Resistance Bands,Nivia,Sports & Fitness,1,4487.19,1121.8,3365.39,0,Delivered
+ORD10094,22/03/2024,Amazon,Allen Solly Blazer,Allen Solly,Clothing,2,1924.36,192.44,3705.28,49,Delivered
+ORD10095,03/06/2024,Ajio,Cosco Water Bottle,Cosco,Sports & Fitness,1,6941.76,1041.26,5959.5,59,Returned
+ORD10096,06/06/2024,Meesho,Nivea Eye Cream,Nivea,Beauty & Skincare,1,2214.14,553.53,1700.61,40,Delivered
+ORD10097,02/12/2023,Ajio,Penguin Sketch Pens,Penguin,Books & Stationery,3,567.72,510.95,1192.21,0,Refund Initiated
+ORD10098,09/01/2024,Myntra,Mi TWS Earbuds,Mi,Electronics,1,2298.86,114.94,2183.92,0,Delivered
+ORD10099,29/10/2024,Meesho,Sony TWS Earbuds,Sony,Electronics,2,17259.69,0.0,34519.38,0,Delivered
+ORD10100,04/08/2024,Nykaa,H&M Jogger Pants,H&M,Clothing,1,2671.18,801.35,1869.83,0,Delivered
+ORD10101,21/03/2024,Nykaa,Prestige Air Fryer,Prestige,Home & Kitchen,1,1067.96,0.0,1146.96,79,Delivered
+ORD10102,12/11/2024,Tata Cliq,Borosil Coffee Mug,Borosil,Home & Kitchen,1,1744.53,174.45,1629.08,59,Delivered
+ORD10103,07/11/2024,Snapdeal,Boldfit Yoga Mat,Boldfit,Sports & Fitness,1,3392.25,678.45,2713.8,0,Delivered
+ORD10104,25/11/2023,Amazon,Oxford Press Planner Diary,Oxford Press,Books & Stationery,3,852.49,0.0,2557.47,0,Delivered
+ORD10105,01/04/2024,Ajio,Dot & Key Hair Mask,Dot & Key,Beauty & Skincare,3,2692.77,807.83,7310.48,40,Delivered
+ORD10106,04/08/2024,Nykaa,Decathlon Resistance Bands,Decathlon,Sports & Fitness,1,796.1,238.83,557.27,0,Refund Initiated
+ORD10107,12/01/2024,Flipkart,Solimo Coffee Mug,Solimo,Home & Kitchen,2,8308.46,0.0,16695.92,79,Delivered
+ORD10108,10/07/2024,Meesho,mCaffeine Sunscreen SPF50,mCaffeine,Beauty & Skincare,1,2381.28,238.13,2143.15,0,Delivered
+ORD10109,11/04/2024,Meesho,Oxford Press Notebook Set,Oxford Press,Books & Stationery,2,268.97,161.38,435.56,59,Delivered
+ORD10110,01/09/2024,Amazon,H&M Denim Jeans,H&M,Clothing,1,5432.08,0.0,5432.08,0,Delivered
+ORD10111,29/08/2024,Ajio,L'Oreal Lip Balm,L'Oreal,Beauty & Skincare,1,984.12,49.21,934.91,0,Delivered
+ORD10112,27/11/2023,Flipkart,WOW Face Serum,WOW,Beauty & Skincare,1,1837.94,183.79,1694.15,40,Delivered
+ORD10113,02/04/2024,Myntra,Lakme Lip Balm,Lakme,Beauty & Skincare,2,2613.67,784.1,4443.24,0,Delivered
+ORD10114,16/12/2024,Nykaa,Harper Collins Highlighter Set,Harper Collins,Books & Stationery,2,660.33,396.2,924.46,0,Delivered
+ORD10115,05/11/2024,Nykaa,Samsung Phone Case,Samsung,Electronics,1,853.21,255.96,676.25,79,Delivered
+ORD10116,08/10/2023,Flipkart,boAt TWS Earbuds,boAt,Electronics,1,4703.36,0.0,4703.36,0,Delivered
+ORD10117,05/10/2024,Meesho,Borosil Electric Kettle,Borosil,Home & Kitchen,1,3893.77,584.07,3309.7,0,Delivered
+ORD10118,09/01/2024,Snapdeal,Philips Coffee Mug,Philips,Home & Kitchen,1,1644.03,493.21,1150.82,0,Returned
+ORD10119,22/10/2023,Nykaa,Cosco Yoga Mat,Cosco,Sports & Fitness,1,3703.05,925.76,2777.29,0,Returned
+ORD10120,27/05/2024,Flipkart,Solimo Chopping Board,Solimo,Home & Kitchen,1,1226.66,368.0,858.66,0,Delivered
