@@ -8,11 +8,11 @@ ExpenseIQ is a full-stack expense analytics web app built with **FastAPI** and *
 
 ## 📸 Preview
 
-![ExpenseIQ Preview](assets/preview1.png)
-![ExpenseIQ Preview](assets/preview2.png)
-![ExpenseIQ Preview](assets/preview3.png)
-![ExpenseIQ Preview](assets/preview4.png)
-![ExpenseIQ Preview](assets/preview5.png)
+![Preview 1](assets/preview1.png)
+![Preview 2](assets/preview2.PNG)
+![Preview 3](assets/preview3.PNG)
+![Preview 4](assets/preview4.PNG)
+![Preview 5](assets/preview5.PNG)
 
 ---
 
