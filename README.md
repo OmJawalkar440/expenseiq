@@ -189,5 +189,5 @@ Contributions are welcome! Here's how:
 
 Made with ❤️ by **OM JAWALKAR**
 
-[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=flat&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-@OmJawalkar440-181717?style=flat&logo=github)](https://github.com/OmJawalkar440)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/om-jawalkar-024154318)
